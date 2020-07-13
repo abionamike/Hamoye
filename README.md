@@ -1,2 +1,2 @@
 # Hamoye
-Hamoye Internship
+Hamoye Data Science Internship
